@@ -1,0 +1,482 @@
+{
+    "2021ai": {
+        "display_name": "2021.AI",
+        "url": "https://2021.ai/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "aesirx": {
+        "display_name": "AesirX",
+        "url": "https://aesirx.io",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [
+            {
+                "account_index": 88533,
+                "account_address": "4MwARWeXdMs3YZ5MPPn2561ceani6AJAVTNPtwS6tceaG2qatK"
+            }
+        ]}
+    },
+    "ahan": {
+        "display_name": "Ahan",
+        "url": "https://ahan.fi",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "arivu": {
+        "display_name": "Arivu",
+        "url": "https://arivu.io",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "bom": {
+        "display_name": "Bank of Memories",
+        "url": "https://bankofmemories.org/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "beatoken": {
+        "display_name": "Beatoken",
+        "url": "https://www.beatoken.com/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "ciphers": {
+        "display_name": "Ciphers.me",
+        "url": "https://ciphers.me/en",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "climafi": {
+        "display_name": "ClimaFi",
+        "url": "https://climafi.org",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [
+            {
+                "account_index": 98191,
+                "account_address": "3RxDfkPcyN9VV9yr22Z6xR6ZuJTsC5yiPfr55sRMZE8RwKcUEf"
+            },
+            {
+                "account_index": 98494,
+                "account_address": "3Ur6834bBUvV69UcYsHmSnZZuGEBWCoMZnkMohSv483scG8z1J"
+            },
+            {
+                "account_index": 98495,
+                "account_address": "3x6sYwXXBCzGhxE2Wb9BfsebE31RSqDxWRuGNBVnhG6HGyZE3y"
+            },
+            {
+                "account_index": 98493,
+                "account_address": "3XUhmUY1HZR29nRWNAySHFghmPBJhPBzu3k7hPuJuvoDtWZoFT"
+            },
+            {
+                "account_index": 96200,
+                "account_address": "4Uhb4wfUy67rXAP9ZhEh85nnepqM7BRiW5bgtKGopxQLz8GbSF"
+            }],
+            "contract_addresses": [
+            {
+                "contract_index": 9456,
+                "contract_subindex": 0
+            }
+        ]}
+    },
+    "cryptogames": {
+        "display_name": "Crypto Games AG",
+        "url": "https://cryptogames.ch/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "dsid": {
+        "display_name": "digitalsocial.id\ud804\udc4d",
+        "url": "",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [
+            {
+                "account_index": 92351,
+                "account_address": "4a2Vz5aQEpHRduM6sMP4RsWCYavD1dqzoDteb5dmon7GBsh636"
+            }
+        ]}
+    },
+    "djookyx": {
+        "display_name": "DjookyX",
+        "url": "https://djookyx.com/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "edubuk": {
+        "display_name": "Edubuk",
+        "url": "https://www.edubuk.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "energinet": {
+        "display_name": "EnergiNet",
+        "url": "https://en.energinet.dk/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "fraia": {
+        "display_name": "Fraia",
+        "url": "https://www.fraia.ai/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "gateway": {
+        "display_name": "Gateway",
+        "url": "https://www.gatewayapp.co/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "golisto": {
+        "display_name": "Golisto",
+        "url": "https://golisto.com/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "gonana": {
+        "display_name": "Gonana Farm",
+        "url": "https://www.gonana.farm/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "hubcontracts": {
+        "display_name": "Hubcontracts",
+        "url": "https://hubcontracts.com/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "hypery": {
+        "display_name": "Hypery",
+        "url": "https://hypery.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "idsure": {
+        "display_name": "IDSure",
+        "url": "",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "ibexus": {
+        "display_name": "Ibexus",
+        "url": "https://ibexus.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "levea": {
+        "display_name": "LEVEA",
+        "url": "https://levea.eu/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "managames": {
+        "display_name": "ManaGames",
+        "url": "https://managames.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "meprotocol": {
+        "display_name": "MeProtocol",
+        "url": "https://www.meprotocol.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "metaakita": {
+        "display_name": "Meta Akita",
+        "url": "https://akitainu-hozonkai.com/metaakita/en/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "mojomoto": {
+        "display_name": "MojoMoto",
+        "url": "https://www.mojomoto.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "motodex": {
+        "display_name": "Motodex",
+        "url": "https://app.motodex.dexstudios.games/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "nextgen": {
+        "display_name": "NextGen",
+        "url": "",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "northstake": {
+        "display_name": "Northstake",
+        "url": "https://www.northstake.dk/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "orpiva": {
+        "display_name": "Orpiva",
+        "url": "https://www.orpiva.ai/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "phi": {
+        "display_name": "PHI",
+        "url": "",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "panenkafc": {
+        "display_name": "Panenka FC",
+        "url": "https://kickoff.panenkafc.gg/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "pixpel": {
+        "display_name": "Pixpel",
+        "url": "https://www.pixpel.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "playbase": {
+        "display_name": "Playbase",
+        "url": "",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "provenance": {
+        "display_name": "Provenance Tags",
+        "url": "https://ptagchain.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [
+            {
+                "account_index": 86568,
+                "account_address": "3suZfxcME62akyyss72hjNhkzXeZuyhoyQz1tvNSXY2yxvwo53"
+            },
+            {
+                "account_index": 97853,
+                "account_address": "3HHSRLLTWVG4TXb1GEWyEsWw549ayc3iMHf7ZqGYfTJo96n5xV"
+            },
+            {
+                "account_index": 97854,
+                "account_address": "4r8hoe1T72Qye8TsYKwBF7hKhRfdkf651nSu7kJKhVPoQrXc64"
+            },
+            {
+                "account_index": 97855,
+                "account_address": "3weHXYntuExNYHy5EXNJMZT6ECS2oi2zpX7yPA8E6V8JNGQuQV"
+            },
+            {
+                "account_index": 97856,
+                "account_address": "3pxLyY8JErhA3HS1u6XUnZy99KscMsHykzG6LNMEzvvMaX7ohy"
+            },
+            {
+                "account_index": 97857,
+                "account_address": "3DUA7wRR1NTh8gz1wWGm9Kx8HNtimpEAk1BdGGfLpdicRXy3PG"
+            },
+            {
+                "account_index": 98056,
+                "account_address": "3u65p8VnwZHNf7SrP3rEQQ9BaWppSk7zthmw6LU746ucHzXGUo"
+            },
+            {
+                "account_index": 98057,
+                "account_address": "3MzJNGzWn7rPLQG3SejPrhuECuoRGeqBbsZm6WkCVjsSjFGFvo"
+            }
+        ],
+            "contract_addresses": [
+            {
+                "contract_index": 8590,
+                "contract_subindex": 0
+            },
+            {
+                "contract_index": 9403,
+                "contract_subindex": 0
+            },
+            {
+                "contract_index": 8588,
+                "contract_subindex": 0
+            }]
+        }
+    },
+    "quidli": {
+        "display_name": "Quidli",
+        "url": "https://quid.li/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "scorefam": {
+        "display_name": "Scorefam",
+        "url": "https://www.scorefam.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "sellix": {
+        "display_name": "Sellix",
+        "url": "https://sellix.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "sharingclub": {
+        "display_name": "SharingClub.io",
+        "url": "https://www.sharingclub.io/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "simplytokenized": {
+        "display_name": "SimplyTokenized",
+        "url": "https://www.simplytokenized.com/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "spaceseven": {
+        "display_name": "SpaceSeven",
+        "url": "https://spaceseven.com/marketplace",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "subtonic": {
+        "display_name": "Subtonic",
+        "url": "",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "techfiesta": {
+        "display_name": "Techfiesta",
+        "url": "https://techfiesta.dev/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "veritatrust": {
+        "display_name": "Veritatrust",
+        "url": "https://www.veritatrust.com/",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    },
+    "xone": {
+        "display_name": "Xone",
+        "url": "",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [],
+            "contract_addresses": []
+        }
+    }
+}
