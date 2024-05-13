@@ -124,9 +124,33 @@
         "url": "https://djookyx.com/",
         "description": "",
         "mainnet": {
-            "account_addresses": [],
-            "contract_addresses": []
-        }
+            "account_addresses": [ 
+            {
+                "account_index": 96613,
+                "account_address": "4rU8pSVm3dCqxgbDQjWDboTE6EegyWo43dAbQeyCtQw5NQUqF5"
+            },
+            {
+                "account_index": 93963,
+                "account_address": "4ArYT1qkX2Ap5TvpmBevC9Ad17ULDff7QqBCiQGp1e8Bhi3Shk"
+            },
+            {
+                "account_index": 96415,
+                "account_address": "3dUr8c15HUhe2qUyAFghWt7g4EiRxdngDXKAzHxS3JbzWnr53F"
+            },
+            {
+                "account_index": 97840,
+                "account_address": "417C6DEiSjowwNMt7b4wUVSzpxp4QwmrNvtwye27UcmrWKgCdf"
+            },
+            {
+                "account_index": 97842,
+                "account_address": "3Q4Lj624JrZf8oyegYSntxkM5bUjE7D8Bs9kWpJikggD3QUE1E"
+            }],
+           "contract_addresses": [
+            {
+                "contract_index": 9484,
+                "contract_subindex": 0
+            }
+        ]}
     },
     "edubuk": {
         "display_name": "Edubuk",
