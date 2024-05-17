@@ -396,7 +396,11 @@
             {
                 "account_index": 98057,
                 "account_address": "3MzJNGzWn7rPLQG3SejPrhuECuoRGeqBbsZm6WkCVjsSjFGFvo"
-            }
+            },
+            {
+                "account_index": 97936,
+                "account_address": "36MBeody6Hyy1PG6fmfxc9H3cMntw4wkB3xDCgoW8zfzVja1Fj"
+            }    
         ],
             "contract_addresses": [
             {
