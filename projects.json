@@ -310,7 +310,12 @@
         "url": "https://www.northstake.dk/",
         "description": "",
         "mainnet": {
-            "account_addresses": [],
+            "account_addresses": [
+                {
+                "account_index": 83271,
+                "account_address": "35CJPZohio6Ztii2zy1AYzJKvuxbGG44wrBn7hLHiYLoF2nxnh"
+            }
+            ],
             "contract_addresses": []
         }
     },
