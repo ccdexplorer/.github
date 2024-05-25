@@ -90,7 +90,12 @@
             {
                 "account_index": 96200,
                 "account_address": "4Uhb4wfUy67rXAP9ZhEh85nnepqM7BRiW5bgtKGopxQLz8GbSF"
-            }],
+            },
+                {
+                "account_index": 98539,
+                "account_address": "4CUpLynDnc44vzzm8FuVMdtFinrxwuB9yLdmxeKLM1Nk8vtari"
+            }
+            ],
             "contract_addresses": [
             {
                 "contract_index": 9456,
