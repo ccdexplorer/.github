@@ -103,6 +103,24 @@
             }
         ]}
     },
+    "concordex": {
+        "display_name": "Concordex",
+        "url": "https://concordex.io",
+        "description": "Institutional-grade decentralized exchange",
+        "mainnet": {
+            "account_addresses": [
+            {
+                "account_index": 90019,
+                "account_address": "4Cxnt2FSQpvondCFPTirVCQ3ZQgQBSfehohQBeURQU5G9yDA5d"
+            }   
+        ],
+            "contract_addresses": [
+            {
+                "contract_index": 9363,
+                "contract_subindex": 0
+            }]
+        }
+    },
     "cryptogames": {
         "display_name": "Crypto Games AG",
         "url": "https://cryptogames.ch/",
@@ -520,23 +538,6 @@
             "account_addresses": [],
             "contract_addresses": []
         }
-    },
-    "concordex": {
-        "display_name": "Concordex",
-        "url": "https://concordex.io",
-        "description": "Institutional-grade decentralized exchange",
-        "mainnet": {
-            "account_addresses": [
-            {
-                "account_index": 90019,
-                "account_address": "4Cxnt2FSQpvondCFPTirVCQ3ZQgQBSfehohQBeURQU5G9yDA5d"
-            }   
-        ],
-            "contract_addresses": [
-            {
-                "contract_index": 9363,
-                "contract_subindex": 0
-            }]
-        }
     }
+    
 }
