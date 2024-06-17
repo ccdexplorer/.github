@@ -369,7 +369,12 @@
         "url": "https://kickoff.panenkafc.gg/",
         "description": "",
         "mainnet": {
-            "account_addresses": [],
+            "account_addresses": [
+                {
+                "account_index": 97852,
+                "account_address": "3mukXwSoSrsqPVMphmdGVoHxuDHM4HWxmJsqQNmRfPi7nXZ4Fh"
+            }
+            ],
             "contract_addresses": [],
             "modules":[
                 "56fa6b8acdae0141f84026cc4ae3c5b70c246aea63b6a7e4e857e1578f72d764"
