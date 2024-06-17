@@ -370,7 +370,10 @@
         "description": "",
         "mainnet": {
             "account_addresses": [],
-            "contract_addresses": []
+            "contract_addresses": [],
+            "modules":[
+                "56fa6b8acdae0141f84026cc4ae3c5b70c246aea63b6a7e4e857e1578f72d764"
+            ]
         }
     },
     "pixpel": {
