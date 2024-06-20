@@ -173,7 +173,11 @@
                 "contract_index": 9484,
                 "contract_subindex": 0
             }
-        ]}
+        ],
+        "modules":[
+            "80c18cbad7d4294a2f964a402341f09f27eb72ec2201f176f6cca52260b7f410"
+        ]
+        }
     },
     "edubuk": {
         "display_name": "Edubuk",
