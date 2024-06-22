@@ -20,15 +20,14 @@ With addresses being defined as:
 ```
 class Addresses:
     account_addresses: list[AccountAddress]
-    contract_addresses: list[ContractAddress]
+    modules: list[Module]
 
 class AccountAddress:
     account_index: int
     account_address: str
     
-class ContractAddress:
-    contract_index: int
-    contract_subindex: int
-
+class Module:
+    module_ref: str
+    
 ```
 
