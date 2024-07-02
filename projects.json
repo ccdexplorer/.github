@@ -165,7 +165,8 @@
             }],
            
         "modules":[
-            "80c18cbad7d4294a2f964a402341f09f27eb72ec2201f176f6cca52260b7f410"
+            "80c18cbad7d4294a2f964a402341f09f27eb72ec2201f176f6cca52260b7f410",
+            "ba5d3e587108208da7bca88fe0cb6a3d84bcc647cb844d781cbad4c1256e7fee"
         ]
         }
     },
