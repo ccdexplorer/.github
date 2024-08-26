@@ -558,6 +558,25 @@
             "account_addresses": [],
             "modules": []
         }
+    },
+    "gateway": {
+        "display_name": "Gateway App",
+        "url": "https://gatewayapp.co",
+        "description": "Gateway is a gaming platform where anyone can play free games, own their in-game assets as NFTs and trade them for real-life value.",
+        "mainnet": {
+        "account_addresses": [
+            {
+                "account_index": 9485,
+                "account_address": "31Y7mhjzj5tfrqMXPfqoqRNkZgP7VBjPe8xXQb6xeGtrjwVx6V"
+            }
+        ],
+        "modules": [
+            "8ed58fccf8cbd74bf29899ca6e5b012756364c94a387e35a08ea9242d2fba05d",
+            "17dc53460985e3259d1ea88de9c9b6360ce4f43d3ccca66907cb7a559cc44cb6",
+            "e8e5ad33a7bd90bc3b8ce7748596e05683c550f5a9d746d4cd8496b0f6c1b533"
+        ]
     }
+}
+
     
 }
