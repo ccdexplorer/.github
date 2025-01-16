@@ -265,8 +265,11 @@
         "url": "https://levea.eu/",
         "description": "",
         "mainnet": {
-            "account_addresses": [],
-            "modules": []
+            "account_addresses": [{
+                "account_index": 99100,
+                "account_address": "3ALHFCbpxL2XWoYBzowNAgHNpH1UcwhhrW87uTsgKnaag44SuP"
+            }],
+            "modules": ["e26b8886145be43fcd86ae8146364f88b0822a52c3c044bc79776778b8ab6dd8"]
         }
     },
     "managames": {
