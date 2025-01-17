@@ -531,9 +531,9 @@
         }
     },
     "umbrella": {
-        "display_name": "Umbrella",
+        "display_name": "Umbrella Network",
         "url": "https://umb.network",
-        "description": "",
+        "description": "Decentralized, community-owned oracle.",
         "mainnet": {
             "account_addresses": [
                 {
