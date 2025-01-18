@@ -212,7 +212,7 @@
         "description": "",
         "mainnet": {
             "account_addresses": [],
-            "modules": []
+            "modules": ["9c41b5b9dbca53667839e041c9ede71ded569752196411e0bfa5648cad821c94"]
         }
     },
     "hubcontracts": {
