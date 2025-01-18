@@ -197,15 +197,6 @@
             "modules": []
         }
     },
-    "gateway": {
-        "display_name": "Gateway",
-        "url": "https://www.gatewayapp.co/",
-        "description": "",
-        "mainnet": {
-            "account_addresses": [],
-            "modules": []
-        }
-    },
     "golisto": {
         "display_name": "Golisto",
         "url": "https://golisto.com/",
