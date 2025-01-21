@@ -19,5 +19,6 @@ jobs:
           host: con24.sprocker.nl
           port: 1883
           topic: "ccdexplorer/services/projects/refresh"
+          message: "{}"
           username: 'admin'
           password: ${{ secrets.MQTT_BROKER_PASSWORD }}
