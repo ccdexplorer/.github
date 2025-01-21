@@ -1,0 +1,24 @@
+name: Send `ccdexplorer/services/projects/refresh` MQTT message
+
+on:
+  push:
+    branches:
+      - '**'
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  build-container:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publish commit hash to mqtt broker
+        uses: juhrlass/mqtt-action@master
+        with:
+          protocol: mqtt
+          host: con24.sprocker.nl
+          port: 1883
+          topic: "ccdexplorer/services/projects/refresh"
+          message: ${{ github.sha }}
+          username: 'admin'
+          password: ${{ secrets.MQTT_BROKER_PASSWORD }}
