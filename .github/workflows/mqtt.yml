@@ -3,11 +3,8 @@ name: Send `ccdexplorer/services/projects/refresh` MQTT message
 on:
   push:
     branches:
-      - '**'
-  pull_request:
-    branches:
-      - '**'
-
+      - main
+  
 jobs:
   build-container:
     runs-on: ubuntu-latest
