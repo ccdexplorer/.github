@@ -212,7 +212,8 @@
         "description": "",
         "mainnet": {
             "account_addresses": [],
-            "modules": ["9c41b5b9dbca53667839e041c9ede71ded569752196411e0bfa5648cad821c94"]
+            "modules": ["9c41b5b9dbca53667839e041c9ede71ded569752196411e0bfa5648cad821c94",
+            "20a1c493f3c5680e6a7b2561c058c9ad6cd55195aa4a9aadc277c2cd112d4b8c"]
         }
     },
     "hubcontracts": {
