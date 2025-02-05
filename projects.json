@@ -593,7 +593,22 @@
             "e8e5ad33a7bd90bc3b8ce7748596e05683c550f5a9d746d4cd8496b0f6c1b533"
         ]
     }
-}
-
-    
+},
+    "5tars": {
+        "display_name": "5TARS",
+        "url": "https://5tars.io",
+        "description": "Predict games and build your dream team in our free Web3 football and cricket games. Compete against fans worldwide for an immersive and engaging experience!",
+        "mainnet": {
+            "account_addresses": [
+                {
+                    "account_address": "3vvnH2os5odsjdtKz4MoQiEbeyZ7o5krJ1GQa3BpftTSTQobdt"
+                }
+            ],
+            "modules": [
+                "c8505f9de4ff559e49d7649a5bc3b55c00bb5051845020eeb75a228b3b19ea2d",
+                "d2ee7151b96ae633c3de979f06e7451e2d6dfcdc58981401d723dffb2c49cb78",
+                "990cc91838c212358930f54d3484161b238397709e5d7456305488d0fe425762"
+            ]
+        }
+    }
 }
