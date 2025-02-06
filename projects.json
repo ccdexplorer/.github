@@ -601,6 +601,7 @@
         "mainnet": {
             "account_addresses": [
                 {
+                    "account_index": 101298,
                     "account_address": "3vvnH2os5odsjdtKz4MoQiEbeyZ7o5krJ1GQa3BpftTSTQobdt"
                 }
             ],
