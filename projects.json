@@ -1,7 +1,7 @@
 {
     "2021ai": {
         "display_name": "2021.AI",
-        "url": "https://2021.ai/",
+        "url": "https://2021.ai",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -17,8 +17,16 @@
             {
                 "account_index": 88533,
                 "account_address": "4MwARWeXdMs3YZ5MPPn2561ceani6AJAVTNPtwS6tceaG2qatK"
+            },
+                {
+                "account_index": 101039,
+                "account_address": "4PdiEfKVveoeDt3qr1z9qrsPjB7P4Ez9sJ9rks2xUXGu6h2pbu"
             }
-        ]}
+        ],
+            "modules": [
+                "7c0efb008808bac655baca868530f7484bae44e55d6b04b34b35541cc67340a5",
+                "10e567a6d7d76969328f6137f0874db755b39332e3c7c4d5b2e1a50123b00b28"]
+        }
     },
     "ahan": {
         "display_name": "Ahan",
@@ -40,7 +48,7 @@
     },
     "bom": {
         "display_name": "Bank of Memories",
-        "url": "https://bankofmemories.org/",
+        "url": "https://bankofmemories.org",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -49,7 +57,7 @@
     },
     "beatoken": {
         "display_name": "Beatoken",
-        "url": "https://www.beatoken.com/",
+        "url": "https://www.beatoken.com",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -118,7 +126,7 @@
     },
     "cryptogames": {
         "display_name": "Crypto Games AG",
-        "url": "https://cryptogames.ch/",
+        "url": "https://cryptogames.ch",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -139,7 +147,7 @@
     },
     "djookyx": {
         "display_name": "DjookyX",
-        "url": "https://djookyx.com/",
+        "url": "https://djookyx.com",
         "description": "",
         "mainnet": {
             "account_addresses": [ 
@@ -172,16 +180,23 @@
     },
     "edubuk": {
         "display_name": "Edubuk",
-        "url": "https://www.edubuk.io/",
+        "url": "https://www.edubuk.io",
         "description": "",
         "mainnet": {
-            "account_addresses": [],
-            "modules": []
+            "account_addresses": [
+                {
+                "account_index": 93522,
+                "account_address": "45cwg5i9i9RbMcNZPJQAyYBGQkW7WZy2v7vAE9ighbRSNL7W8Y"
+            }
+            ],
+            "modules": [
+                "df9ac62a01a44ddf0ef54ca491796dcf1619411fe89a178a81644ae660b7fb79"
+            ]
         }
     },
     "energinet": {
         "display_name": "EnergiNet",
-        "url": "https://en.energinet.dk/",
+        "url": "https://en.energinet.dk",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -190,7 +205,7 @@
     },
     "fraia": {
         "display_name": "Fraia",
-        "url": "https://www.fraia.ai/",
+        "url": "https://www.fraia.ai",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -199,7 +214,7 @@
     },
     "golisto": {
         "display_name": "Golisto",
-        "url": "https://golisto.com/",
+        "url": "https://golisto.com",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -208,7 +223,7 @@
     },
     "gonana": {
         "display_name": "Gonana Farm",
-        "url": "https://www.gonana.farm/",
+        "url": "https://www.gonana.farm",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -218,7 +233,7 @@
     },
     "hubcontracts": {
         "display_name": "Hubcontracts",
-        "url": "https://hubcontracts.com/",
+        "url": "https://hubcontracts.com",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -227,7 +242,7 @@
     },
     "hypery": {
         "display_name": "Hypery",
-        "url": "https://hypery.io/",
+        "url": "https://hypery.io",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -245,7 +260,7 @@
     },
     "ibexus": {
         "display_name": "Ibexus",
-        "url": "https://ibexus.io/",
+        "url": "https://ibexus.io",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -254,7 +269,7 @@
     },
     "levea": {
         "display_name": "LEVEA",
-        "url": "https://levea.eu/",
+        "url": "https://levea.eu",
         "description": "",
         "mainnet": {
             "account_addresses": [{
@@ -266,7 +281,7 @@
     },
     "managames": {
         "display_name": "ManaGames",
-        "url": "https://managames.io/",
+        "url": "https://managames.io",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -275,7 +290,7 @@
     },
     "meprotocol": {
         "display_name": "MeProtocol",
-        "url": "https://www.meprotocol.io/",
+        "url": "https://www.meprotocol.io",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -284,7 +299,7 @@
     },
     "metaakita": {
         "display_name": "Meta Akita",
-        "url": "https://akitainu-hozonkai.com/metaakita/en/",
+        "url": "https://akitainu-hozonkai.com/metaakita/en",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -293,7 +308,7 @@
     },
     "mojomoto": {
         "display_name": "MojoMoto",
-        "url": "https://www.mojomoto.io/",
+        "url": "https://www.mojomoto.io",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -302,7 +317,7 @@
     },
     "motodex": {
         "display_name": "Motodex",
-        "url": "https://app.motodex.dexstudios.games/",
+        "url": "https://app.motodex.dexstudios.games",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -320,7 +335,7 @@
     },
     "northstake": {
         "display_name": "Northstake",
-        "url": "https://www.northstake.dk/",
+        "url": "https://www.northstake.dk",
         "description": "",
         "mainnet": {
             "account_addresses": [
@@ -338,7 +353,7 @@
     },
     "orpiva": {
         "display_name": "Orpiva",
-        "url": "https://www.orpiva.ai/",
+        "url": "https://www.orpiva.ai",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -356,7 +371,7 @@
     },
     "panenkafc": {
         "display_name": "Panenka FC",
-        "url": "https://panenkafc.gg/",
+        "url": "https://panenkafc.gg",
         "description": "",
         "mainnet": {
             "account_addresses": [
@@ -378,7 +393,7 @@
     },
     "pixpel": {
         "display_name": "Pixpel",
-        "url": "https://www.pixpel.io/",
+        "url": "https://www.pixpel.io",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -396,7 +411,7 @@
     },
     "provenance": {
         "display_name": "Provenance Tags",
-        "url": "https://ptagchain.io/",
+        "url": "https://ptagchain.io",
         "description": "",
         "mainnet": {
             "account_addresses": [
@@ -456,7 +471,7 @@
     },
     "quidli": {
         "display_name": "Quidli",
-        "url": "https://quid.li/",
+        "url": "https://quid.li",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -465,7 +480,7 @@
     },
     "scorefam": {
         "display_name": "Scorefam",
-        "url": "https://www.scorefam.io/",
+        "url": "https://www.scorefam.io",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -474,7 +489,7 @@
     },
     "sellix": {
         "display_name": "Sellix",
-        "url": "https://sellix.io/",
+        "url": "https://sellix.io",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -483,7 +498,7 @@
     },
     "sharingclub": {
         "display_name": "SharingClub.io",
-        "url": "https://www.sharingclub.io/",
+        "url": "https://www.sharingclub.io",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -492,7 +507,7 @@
     },
     "simplytokenized": {
         "display_name": "SimplyTokenized",
-        "url": "https://www.simplytokenized.com/",
+        "url": "https://www.simplytokenized.com",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -519,7 +534,7 @@
     },
     "techfiesta": {
         "display_name": "Techfiesta",
-        "url": "https://techfiesta.dev/",
+        "url": "https://techfiesta.dev",
         "description": "",
         "mainnet": {
             "account_addresses": [],
@@ -560,7 +575,7 @@
     },
     "veritatrust": {
         "display_name": "Veritatrust",
-        "url": "https://www.veritatrust.com/",
+        "url": "https://www.veritatrust.com",
         "description": "",
         "mainnet": {
             "account_addresses": [],
