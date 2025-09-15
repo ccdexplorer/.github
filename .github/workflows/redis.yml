@@ -20,4 +20,4 @@ jobs:
         run: |
           redis-cli -h $REDIS_HOST -u default -p $REDIS_PORT -a $REDIS_PASSWORD \
             XADD "blocks:projects:mainnet" '*' \
-            data '{}'
+            data '{"projects_updated": true}'
