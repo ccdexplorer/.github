@@ -1,21 +1,23 @@
-name: Send `ccdexplorer/services/projects/refresh` MQTT message
+name: Send Redis stream message
 
 on:
   push:
     branches:
       - main
-  
+
 jobs:
-  build-container:
+  publish-to-redis:
     runs-on: ubuntu-latest
     steps:
-      - name: Publish commit hash to mqtt broker
-        uses: juhrlass/mqtt-action@master
-        with:
-          protocol: mqtt
-          host: con24.sprocker.nl
-          port: 1883
-          topic: "ccdexplorer/services/projects/refresh"
-          message: "{}"
-          username: 'admin'
-          password: ${{ secrets.MQTT_BROKER_PASSWORD }}
+      - name: Install redis-tools
+        run: sudo apt-get update && sudo apt-get install -y redis-tools
+
+      - name: Push empty data field to Redis stream
+        env:
+          REDIS_HOST: ${{ secrets.REDIS_HOST }}
+          REDIS_PORT: 6379
+          REDIS_PASSWORD: ${{ secrets.REDIS_PASSWORD }}
+        run: |
+          redis-cli -h $REDIS_HOST -p $REDIS_PORT -a $REDIS_PASSWORD \
+            XADD "blocks:projects:mainnet" '*' \
+            data '{}'
