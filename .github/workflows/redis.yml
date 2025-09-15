@@ -18,6 +18,6 @@ jobs:
           REDIS_PORT: 6379
           REDIS_PASSWORD: ${{ secrets.REDIS_PASSWORD }}
         run: |
-          redis-cli -h $REDIS_HOST -p $REDIS_PORT -a $REDIS_PASSWORD \
+          redis-cli -h $REDIS_HOST -u default -p $REDIS_PORT -a $REDIS_PASSWORD \
             XADD "blocks:projects:mainnet" '*' \
             data '{}'
