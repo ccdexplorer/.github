@@ -478,6 +478,20 @@
             "modules": []
         }
     },
+    "recheck": {
+        "display_name": "Recheck",
+        "url": "https://recheck.io/",
+        "description": "ReCheck BV is a Dutch startup that helps businesses reach their sustainability and profitability goals by providing decentralised solutions. We help organisations with data protection, tracing and verification.",
+        "mainnet": {
+        "account_addresses": [
+            {
+                "account_index": 100491,
+                "account_address": "3dDXjWXPqsHXuX8v6Qn3pAUJi9SvPjhQA3hWCVHrc16rbAoLK3"
+            }
+        ],
+        "modules": []
+    }
+},
     "scorefam": {
         "display_name": "Scorefam",
         "url": "https://www.scorefam.io",
