@@ -492,6 +492,21 @@
         "modules": []
     }
 },
+    "rocketfuel": {
+        "display_name": "RocketFuel",
+        "url": "https://rocketfuel.inc",
+        "description": "",
+        "mainnet": {
+            "account_addresses": [
+            {
+                "account_index": 102703,
+                "account_address": "3yqViqSFMZJaTiTtBFisb6dZHTMUGzPxLgVu8RHA2DMPLDtbwy"
+            }
+            ],
+            "modules": [
+            "8e31feffb4502800993e9efafa046e7c1244494dcc299eebd5e6d814a0d9d55f"
+        ]}
+    },
     "scorefam": {
         "display_name": "Scorefam",
         "url": "https://www.scorefam.io",
