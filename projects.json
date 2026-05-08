@@ -251,11 +251,14 @@
     },
     "idsure": {
         "display_name": "IDSure",
-        "url": "",
-        "description": "",
+        "url": "https://idsure.io/",
+        "description": "Digital Certification for the Maritime Industry",
         "mainnet": {
-            "account_addresses": [],
-            "modules": []
+            "account_addresses": [{
+                "account_index": 101605,
+                "account_address": "33v3XTPYdKuZcTMzNQM26KiZgk3sPDA8K1Z2oWhzAfeqi4YP1R"
+            }],
+            "modules": ["0d0c8afe4e3935381df01fad8ab9742a180530bf2f1e3ab904a5c74e7bb626a2"]
         }
     },
     "ibexus": {
